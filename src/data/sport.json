@@ -1,0 +1,78 @@
+{
+  "err": "0",
+  "msg": "OK",
+  "output": {
+    "newslist": [
+      {
+        "ctime": "2016-06-15 14:22",
+        "title": "柯洁稳居世界第一 AlphaGo列次席朴廷桓超李世石",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p1.ifengimg.com/a/2016_25/487f7d0877a977d_size97_w379_h490.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49052997_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 13:51",
+        "title": "里约奥运海湾现超级细菌 感染后死亡率高达50%",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p2.ifengimg.com/a/2016_25/541a97338c6652b_size32_w550_h356.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49052031_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 11:52",
+        "title": "18岁周跃龙谈旅英收获：把心放开 享受斯诺克",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p3.ifengimg.com/cmpp/2016/06/15/1a9bf41db9445996d1223f0c0381b035_size245_w500_h350.png",
+        "url": "http://sports.ifeng.com/a/20160615/49048678_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 10:23",
+        "title": "里约奥运会和残奥会口号公布：一个新世界",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p2.ifengimg.com/a/2016_25/3f7b9d23a406cfb_size18_w570_h411.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49045554_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 11:00",
+        "title": "中巡赛半决赛：超级黑马迎战张安达 周跃龙PK李行",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p1.ifengimg.com/cmpp/2016/06/15/24fac2576fb02e476605f383d4ce720e_size245_w500_h350.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49045771_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 11:00",
+        "title": "穆古卢扎法网夺冠后首战失利 伊万进马洛卡赛次轮",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p1.ifengimg.com/cmpp/2016/06/15/018301d348412150f67534725f7ac8f5_size361_w500_h350.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49045975_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 10:31",
+        "title": "女排抵澳门郎平最受欢迎 队员手把手指导特奥学员",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p0.ifengimg.com/cmpp/2016/06/15/5bbf408767760856b722ef79e9be3e9d_size291_w500_h350.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49046218_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 08:21",
+        "title": "女王杯穆雷救4盘点双抢7险胜 瓦林卡首轮爆冷出局",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p3.ifengimg.com/cmpp/2016/06/15/09e2ae838f2fd25b41dc5f0a5d70ec29_size281_w500_h350.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49042241_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 08:00",
+        "title": "国乒全主力出征日本公开赛 女队5人从未染指冠军",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p1.ifengimg.com/cmpp/2016/06/15/b2da177a0bc16a896c53f0701304509b_size300_w500_h350.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49040760_0.shtml"
+      },
+      {
+        "ctime": "2016-06-15 07:39",
+        "title": "曝拳王墓碑仅刻“阿里”两字 墓地将对公众开放",
+        "description": "凤凰体育",
+        "picUrl": "http://d.ifengimg.com/w145_h103/p2.ifengimg.com/a/2016_25/3ddbcd23f27b13c_size373_w500_h390.jpg",
+        "url": "http://sports.ifeng.com/a/20160615/49040996_0.shtml"
+      }
+    ]
+  }
+}
